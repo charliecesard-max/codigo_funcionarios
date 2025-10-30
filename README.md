@@ -2,7 +2,7 @@
 
 código incompleto, mas contém tudo que a atividade exigiu 
 
-opcões da tabela 
+opcões da tabela
 opcão 1 (obrigatória) - cria uma lista, para usar o código tem que criar uma lista
 opcão 2 (também obrigatória) - abre a lista criada, quando for criar um funcionário tem que ter a lista selecionada, se não da erro
 opcão 3 - cria funcionário, vai pedir nome e salário 
