@@ -1,6 +1,6 @@
 # Leia_por_favor
 
-código incompleto, mas contém tudo que a atividade exigi 
+código incompleto, mas contém tudo que a atividade exigiu 
 
 opcões da tabela 
 opcão 1 (obrigatória) - cria uma lista, para usar o código tem que criar uma lista
